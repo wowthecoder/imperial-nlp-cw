@@ -7,3 +7,8 @@ wordcloud
 nltk
 scikit-learn
 umap-learn
+torch
+transformers
+contractions
+sentencepiece
+protobuf
