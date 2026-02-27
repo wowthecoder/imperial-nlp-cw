@@ -5,3 +5,5 @@ matplotlib
 seaborn
 wordcloud
 nltk
+scikit-learn
+umap-learn
