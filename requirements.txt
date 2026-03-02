@@ -12,3 +12,4 @@ transformers
 contractions
 sentencepiece
 protobuf
+huggingface_hub

@@ -5,6 +5,9 @@ __pycache__/
 # Environments
 venv/
 
-*.zip
+# Example
+example/
 
+*.zip
+.env
 
