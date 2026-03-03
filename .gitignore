@@ -8,6 +8,8 @@ venv/
 # Example
 example/
 
+checkpoints/
+
 *.zip
 .env
 
