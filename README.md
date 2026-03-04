@@ -51,7 +51,7 @@ The `ablation_studies` folder contains several notebooks designed to isolate and
 4. ✅ `oversampling.ipynb` – Oversample PCL positive class by 9x (each sample duplicated 8x). Best PCL class F1: **0.6050**
 5. ✅ `augmented_oversampling.ipynb` – Synonym replacement(1x), Back Translation (2x) and Duplication (5x). Best PCL class F1: **0.6078**
 6. ✅ `gemini_oversampling.ipynb` – Gemini Paraphrasing (2x) and Duplication (5x). Best PCL class F1: **0.6083**
-7. 🛑 `weighted_loss.ipynb` – examines different weighting schemes in the loss function to penalise misclassification of minority classes and compares the effect to oversampling. Best PCL class F1: **0.5831**
+7. 🛑 `weighted_loss.ipynb` – No. 2 + weighted cross entropy loss. Best PCL class F1: **0.5831**
 
 ✅ for implemented in the best model notebook. \
 🛑 for not implemented in the best model notebook.
